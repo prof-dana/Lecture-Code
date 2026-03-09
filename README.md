@@ -9,9 +9,13 @@
 ```
 Lecture-Code
 │
-└─ 2026-1_MachineLearning
+└─ MachineLearning
    ├─ data
    └─ ch00_*.ipynb
+└─ BigDataTechnologies
+   ├─ data
+   └─ ch00_*.R
+
 ```
 
 각 폴더에는 수업에서 사용한 코드와 데이터가 포함되어 있음.
