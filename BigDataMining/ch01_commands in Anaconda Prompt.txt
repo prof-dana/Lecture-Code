@@ -1,0 +1,6 @@
+(base) C:\...>conda create -n bm python=3.13
+(base) C:\...>conda activate bm
+(bm) C:\...>conda install numpy pandas scikit-learn matplotlib seaborn jupyter
+(bm) C:\...>conda install -c plotly plotly
+(bm) C:\...>jupyter notebook
+(bm) C:\...>conda deactivate
