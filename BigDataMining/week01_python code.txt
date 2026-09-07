@@ -1,0 +1,7 @@
+print("Hello World")
+
+a = 3
+
+5+6
+
+input("what's ur name?")
