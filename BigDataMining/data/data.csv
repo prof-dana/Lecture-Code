@@ -1,4 +1,4 @@
-Gender,Age,Smoker,HowLong,Cigarettes,Height,Waist,Hips,Weight
+Gender,Age,Smoker,HowLong,Daily,Height,Waist,Hips,Weight
 F,22,no,0,0,147,57,76,48
 F,63,no,0,0,152,87.5,112.5,75
 F,60,yes,42,20,173,77.5,72.5,60
